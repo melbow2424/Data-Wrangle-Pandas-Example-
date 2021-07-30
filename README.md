@@ -1,4 +1,4 @@
-# Option 2: Data Wrangling TMC Junior Engineer Skills Assessment (Work in Progress)
+# Option 2: Data Wrangling TMC Junior Engineer Skills
 ## Table of Contents
 1. Overview
 2. Instruction on Operating Script
